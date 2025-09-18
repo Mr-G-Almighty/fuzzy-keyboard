@@ -3,14 +3,14 @@ In 2022 I used this github, not as often as I should have but I did use it. Then
 
 # The List
 Coding
- - [] Continue with The Odin Project
- - [] Update or upload a new repository once a day, preferably update a new one
- - [] Apply the things I've learned at TOP on older projects.
- - [] Make a dice-rolling website
- - [] Remake my dev site
- - [] Continue to improve emulator list
- - [] Try and fix dot-matrix
+- [] Continue with The Odin Project
+- [] Update or upload a new repository once a day, preferably update a new one
+- [] Apply the things I've learned at TOP on older projects.
+- [] Make a dice-rolling website
+- [] Remake my dev site
+- [] Continue to improve emulator list
+- [] Try and fix dot-matrix
 Personal
- - [] Use headspace for 7 days straight
- - [] Finish reading Becky Chambers
- - [] Start learning French
+- [] Use headspace for 7 days straight
+- [] Finish reading Becky Chambers
+- [] Start learning French
