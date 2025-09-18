@@ -10,6 +10,8 @@ Coding
 - [ ] Remake my dev site
 - [ ] Continue to improve emulator list
 - [ ] Try and fix dot-matrix
+
+
 Personal
 - [ ] Use headspace for 7 days straight
 - [ ] Finish reading Becky Chambers
